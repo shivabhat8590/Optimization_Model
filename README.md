@@ -1,3 +1,14 @@
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: Shivaprasad Bhat M
+
+**INTERN ID**: CTIS7640
+
+**DOMAIN**: DATA SCIENCE
+**DURATION**: 12 WEEKS
+
+**MENTOR**: NEELA SANTOSH
+
 Supply Chain Cost Optimization using Linear Programming and PuLP
 Overview
 
