@@ -74,11 +74,14 @@ Run the Project
 jupyter notebook
 
 Open:
-
 Optimization Model.ipynb
 Results
+
+
 <img width="744" height="356" alt="Image" src="https://github.com/user-attachments/assets/6801065a-ad25-46dc-bb76-fe3d8b76ae51" />
 <img width="989" height="688" alt="Image" src="https://github.com/user-attachments/assets/67067639-6ff1-4ab4-88f9-6bce4fd0946c" />
+
+
 The optimization model successfully reduced transportation costs by selecting the most cost-effective supplier distribution strategy while meeting business constraints.
 
 Business Insights
